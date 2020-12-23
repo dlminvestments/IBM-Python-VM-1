@@ -25,4 +25,6 @@ This application demonstrates a simple, reusable Python web application.
 
 [Install Python]: https://www.python.org/downloads/
 
+<img src="https://img.shields.io/badge/python%10-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
