@@ -53,3 +53,11 @@ sklearn
 pandas
 numpy
 oauth2client
+
+numpy
+pyyaml
+requests
+setuptools
+six
+typing_extensions
+dataclasses; python_version<"3.7
