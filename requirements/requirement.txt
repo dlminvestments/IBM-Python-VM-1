@@ -13,17 +13,17 @@ steps:
 #
 #    pip-compile
 #
-cycler==0.10.0            # via matplotlib
-kiwisolver==1.2.0         # via matplotlib
+cycler==0.10.0           
+kiwisolver==1.2.0        
 matplotlib==3.2.1
 numpy==1.18.5
 pandas==1.0.4
-pyparsing==2.4.7          # via matplotlib
-python-dateutil==2.8.1    # via matplotlib, pandas
-pytz==2020.1              # via pandas
-scipy==1.4.1              # via seaborn
+pyparsing==2.4.7         
+python-dateutil==2.8.1   
+pytz==2020.1             
+scipy==1.4.1             
 seaborn==0.10.1
-six==1.15.0               # via cycler, python-dateutil
+six==1.15.0              
 
 django==1.11.0
 bpython==0.12
@@ -36,3 +36,14 @@ stripe==1.9.1
 dj-database-url==0.2.1
 django-oauth2-provider==0.2.4
 djangorestframework==2.3.1
+
+py==1.8.1
+pip==19.0.3
+Mako==1.1.1
+MarkupSafe==1.1.1
+six==1.14.0
+attrs==19.3.0
+pluggy==0.13.1
+setuptools==40.8.0
+parse==1.14.0
+globe==0.7
