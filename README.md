@@ -24,3 +24,5 @@ This application demonstrates a simple, reusable Python web application.
 1. Access the running app in a browser at <http://localhost:8000>
 
 [Install Python]: https://www.python.org/downloads/
+
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
