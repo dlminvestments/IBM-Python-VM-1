@@ -47,3 +47,8 @@ pluggy==0.13.1
 setuptools==40.8.0
 parse==1.14.0
 globe==0.7
+
+tensorflow==2.4.0
+sklearn
+pandas
+numpy
