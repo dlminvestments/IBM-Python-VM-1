@@ -4,6 +4,9 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/actions/checkout"><img alt="GitHub Actions status" src="https://github.com/actions/checkout/workflows/test-local/badge.svg"></a>
+</p>
 
 <p align="center">
     <a href="https://cloud.ibm.com">
