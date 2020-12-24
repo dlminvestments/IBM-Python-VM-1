@@ -37,6 +37,12 @@ dj-database-url==0.2.1
 django-oauth2-provider==0.2.4
 djangorestframework==2.3.1
 
+-r requirements/requirements-optionals.txt
+-r requirements/requirements-testing.txt
+-r requirements/requirements-documentation.txt
+-r requirements/requirements-codestyle.txt
+-r requirements/requirements-packaging.txt
+
 py==1.8.1
 pip==19.0.3
 Mako==1.1.1
