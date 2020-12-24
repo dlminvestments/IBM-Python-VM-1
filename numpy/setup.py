@@ -322,7 +322,7 @@ def parse_setuppy_commands():
                     'install_lib', 'install_scripts', ):
         bad_commands[command] = "`setup.py %s` is not supported" % command
 
-    for command in bad_commands:
+    for command in bad_commands.keys():
         if command in args:
             print(textwrap.dedent(bad_commands[command]) +
                   "\nAdd `--force` to your command to use it anyway if you "
@@ -336,10 +336,8 @@ def parse_setuppy_commands():
         if command in args:
             return False
 
-     # If we got here, we didn't detect what setup.py command was given
-     import warnings
-     warnings.warn("Unrecognized setuptools command, proceeding with "
-
+    # If we got here, we didn't detect what setup.py command was given
+    import warnings
     warnings.warn("Unrecognized setuptools command, proceeding with "
                   "generating Cython sources and expanding templates",
                   stacklevel=2)
@@ -349,10 +347,11 @@ def parse_setuppy_commands():
 def get_docs_url():
     if 'dev' in VERSION:
         return "https://numpy.org/devdocs"
-    # For releases, this URL ends up on pypi.
-    # By pinning the version, users looking at old PyPI releases can get
-    # to the associated docs easily.
-    return "https://numpy.org/doc/{}.{}".format(MAJOR, MINOR)
+    else:
+        # For releases, this URL ends up on pypi.
+        # By pinning the version, users looking at old PyPI releases can get
+        # to the associated docs easily.
+        return "https://numpy.org/doc/{}.{}".format(MAJOR, MINOR)
 
 
 def setup_package():
