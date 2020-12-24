@@ -349,11 +349,10 @@ def parse_setuppy_commands():
 def get_docs_url():
     if 'dev' in VERSION:
         return "https://numpy.org/devdocs"
-    else:
-        # For releases, this URL ends up on pypi.
-        # By pinning the version, users looking at old PyPI releases can get
-        # to the associated docs easily.
-        return "https://numpy.org/doc/{}.{}".format(MAJOR, MINOR)
+    # For releases, this URL ends up on pypi.
+    # By pinning the version, users looking at old PyPI releases can get
+    # to the associated docs easily.
+    return "https://numpy.org/doc/{}.{}".format(MAJOR, MINOR)
 
 
 def setup_package():
