@@ -1,0 +1,5 @@
+"devDependencies": {
+    "gunicorn": "19.4.0",
+    "jinja2": "2.10.0",
+    "flask": "1.0.0",
+    "werkzeug": "0.15.2"
