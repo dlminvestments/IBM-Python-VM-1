@@ -54,15 +54,24 @@ pandas
 numpy
 oauth2client
 
-    attrs>=19.2.0
-    iniconfig
-    packaging
-    pluggy>=0.12,<1.0.0a1
-    py>=1.8.2
-    toml
-    atomicwrites>=1.0;sys_platform=="win32"
-    colorama;sys_platform=="win32"
-    importlib-metadata>=0.12
+Flask==0.8
+Jinja2==2.6
+Werkzeug==0.8.3
+certifi==0.0.8
+chardet==1.0.1
+distribute==0.6.24
+gunicorn==0.14.2
+requests==0.11.1
+
+attrs>=19.2.0
+iniconfig
+packaging
+pluggy>=0.12,<1.0.0a1
+py>=1.8.2
+toml
+atomicwrites>=1.0;sys_platform=="win32"
+colorama;sys_platform=="win32"
+importlib-metadata>=0.12
 
 numpy
 pyyaml
