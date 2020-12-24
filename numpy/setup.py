@@ -335,9 +335,6 @@ def parse_setuppy_commands():
     for command in other_commands:
         if command in args:
             return False
-
-    # If we got here, we didn't detect what setup.py command was given
-    import warnings
     warnings.warn("Unrecognized setuptools command, proceeding with "
                   "generating Cython sources and expanding templates",
                   stacklevel=2)
