@@ -26,6 +26,8 @@ This application demonstrates a simple, reusable Python web application.
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/798c4ad0a2d1ea54c5ea/maintainability)](https://codeclimate.com/github/dlminvestments/IBM-Python-VM-1/maintainability)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8d18db4982ba464cb463f59498ca32ba)](https://app.codacy.com/gh/dlminvestments/IBM-Python-VM-1?utm_source=github.com&utm_medium=referral&utm_content=dlminvestments/IBM-Python-VM-1&utm_campaign=Badge_Grade_Settings)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
