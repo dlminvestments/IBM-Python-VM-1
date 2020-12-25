@@ -92,3 +92,4 @@ Flask==0.12.2
  pymongo[tls]==3.7.0
  winkerberos==0.7.0
  pykerberos==1.2.1
+ ibm_db
