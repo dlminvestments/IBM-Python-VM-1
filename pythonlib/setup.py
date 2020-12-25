@@ -1,6 +1,8 @@
-from setuptools import find_packages, setup
-setup(
-    name=’mypythonlib’,
+
+from setuptools import setup
+
+if __name__ == "__main__":
+    setup()
 
 packages=find_packages(include=[‘mypythonlib’]),
     version=’0.1.0',
