@@ -88,5 +88,5 @@ typing_extensions
 dataclasses; python_version<"3.7
 
 Flask==0.12.2
- cloudant==2.4.0
+ cloudant==2.2.0
  pymongo[tls]==3.7.0
