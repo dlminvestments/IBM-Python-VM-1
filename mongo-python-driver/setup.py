@@ -382,6 +382,17 @@ setup(
     name="pymongo",
     version=version,
     description="Python driver for MongoDB <http://www.mongodb.org>",
+    mongodb+srv://Dlminvestissements:<PARIS_dlm13>@cluster0.y1tfu.mongodb.net/<dlminvestissements >?retryWrites=true&w=majority
+      - mongodb://<dlminvestissements >:<PARIS_dlm13>@realm.mongodb.com:27020/?authMechanism=PLAIN&authSource=%24external&ssl=true&appName=vm-1-afmrk:mongodb-atlas:local-userpass
+
+    contstant: MongoClient = require('mongodb').MongoClient;
+    const uri = "mongodb+srv://Dlminvestissements:<PARIS_dlm13>@cluster0.y1tfu.mongodb.net/<dlminvestissements >?retryWrites=true&w=majority";
+    const client = new MongoClient(uri, { useNewUrlParser: true });
+    client.connect(err => {
+    const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+}); 
     long_description=readme_content,
     author="Mike Dirolf",
     author_email="mongodb-user@googlegroups.com",
