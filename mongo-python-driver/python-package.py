@@ -41,3 +41,5 @@ jobs:
 client = pymongo.MongoClient("mongodb+srv://Dlminvestissements:<PARIS_dlm13>@cluster0.y1tfu.mongodb.net/<dlminvestissements>?retryWrites=true&w=majority")
 db = client.test
 
+mongodb://<dlminvestissements>:<PARIS_dlm13>@realm.mongodb.com:27020/?authMechanism=PLAIN&authSource=%24external&ssl=true&appName=triggers_realmapp-wnmgy:<SERVICE_NAME>:local-userpass
+
