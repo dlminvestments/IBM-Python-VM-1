@@ -30,3 +30,8 @@ install_requires =
 python_requires = >3.6
 setup_requires =
     setuptools=>42.0
+
+module.exports = function (filepath, content) {
+  // find the dependencies
+  return []; // return dependencies
+};
