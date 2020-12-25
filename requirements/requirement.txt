@@ -79,6 +79,12 @@ atomicwrites>=1.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
 importlib-metadata>=0.12
 
+asgiref >= 3.2.10
+pytz
+sqlparse >= 0.2.2
+argon2 = argon2-cffi >= 19.1.0
+bcrypt = bcrypt
+
 numpy
 pyyaml
 requests
