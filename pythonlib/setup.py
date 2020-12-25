@@ -3,7 +3,7 @@ from setuptools import setup
 if __name__ == "__main__":
     setup()
 
-packages=find_packages(include=[‘mypythonlib’]),
+packages=find_packages(include=[‘’]),
     version=’0.1.0',
     description=’Python library’,
     author=’Me’,
