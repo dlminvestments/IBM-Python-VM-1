@@ -1,0 +1,13 @@
+version: 1
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    # Add reviewers
+    reviewers:
+      - "octocat"
+      - "my-username"
+      - "my-org/python-team"
+labels:
+      - "pip dependencies"
