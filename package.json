@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
+
+{
+  "name": "IBM_VM_1",
+  "version": "0.0.1",
+  "description": "Web App",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "bower": "1.8.8",
+    "ejs": "3.1.5",
+    "express": "4.17.1",
+    "request": "2.88.2"
+  },
+  "engines": {
+    "node": "^10.9.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "grunt": "1.3.0",
+    "node-sass": "5.0.0",
+    "grunt-available-tasks": "0.6.3",
+    "grunt-bower-installer": "0.3.6",
+    "grunt-contrib-clean": "2.0.0",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-jshint": "3.0.0",
+    "grunt-istanbul": "0.8.0",
+    "grunt-mocha-test": "0.13.3",
+    "grunt-sass": "3.1.0",
+    "mocha": "8.2.1",
+    "rewire": "5.0.0",
+    "saucelabs": "4.6.2",
+    "selenium-webdriver": "3.6.0",
+    "sinon": "9.2.2",
+    "supertest": "6.0.1"
+  }
+}
