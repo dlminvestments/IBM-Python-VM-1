@@ -11,7 +11,7 @@ logutils==0.3.3
 
 South==0.7.6
 
-requests==2.20
+requests==2.6.0
 
 stripe==1.9.1
 
@@ -19,5 +19,4 @@ dj-database-url==0.2.1
 
 django-oauth2-provider==0.2.4
 
-djangorestframework==3.9.1
 urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
