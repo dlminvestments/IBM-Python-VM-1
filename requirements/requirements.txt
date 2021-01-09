@@ -98,7 +98,7 @@ typing_extensions
 dataclasses; python_version<"3.7
 
 Flask==0.12.2
- cloudant==2.2.0
+ cloudant==2.14.0
  pymongo[tls]==3.7.0
  winkerberos==0.7.0
  pykerberos==1.2.1
