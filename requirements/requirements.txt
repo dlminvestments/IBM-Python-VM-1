@@ -60,7 +60,7 @@ pandas
 numpy
 oauth2client
 
-Flask==0.8
+Flask==0.12.5
 Jinja2==2.6
 Werkzeug==0.8.3
 certifi==0.0.8
@@ -97,7 +97,7 @@ six
 typing_extensions
 dataclasses; python_version<"3.7
 
-Flask==0.12.2
+Flask==0.12.5
  cloudant==2.14.0
  pymongo[tls]==3.7.0
  winkerberos==0.7.0
