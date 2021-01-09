@@ -69,19 +69,19 @@ distribute==0.6.24
 gunicorn==0.14.2
 requests==0.11.1
 
-attrs>=19.2.0
+attrs==20.3.0
 iniconfig
 packaging
-pluggy>=0.12,<1.0.0a1
-py>=1.8.2
+pluggy==0.13.1
+py==1.10.0
 toml
 atomicwrites>=1.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
-importlib-metadata>=0.12
+importlib-metadata==3.3.0
 
-asgiref >= 3.2.10
+asgiref==3.3.1
 pytz
-sqlparse >= 0.2.2
+sqlparse==0.4.1
 argon2 = argon2-cffi >= 19.1.0
 bcrypt = bcrypt
 
