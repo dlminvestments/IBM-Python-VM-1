@@ -1,6 +1,6 @@
 Flask==0.12.3
 
-cloudant==2.2.0
+cloudant==2.14.0
 
 pymongo[tls]==3.7.0
 
