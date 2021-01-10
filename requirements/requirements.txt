@@ -55,7 +55,8 @@ parse==1.14.0
 globe==0.7
 
 tensorflow==2.4.0
-sklearn
+keras==1.2.2
+sklearn==0.24.0
 pandas
 numpy
 oauth2client
