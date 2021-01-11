@@ -16,4 +16,4 @@ setuptools==40.9.0
 
 parse==1.18.0
 
-globe==0.7
+globe==1.0.52
