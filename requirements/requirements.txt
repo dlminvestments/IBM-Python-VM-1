@@ -31,7 +31,7 @@ django-braces==0.2.3
 django-model-utils==1.5.0
 logutils==0.3.5
 South==0.8.4
-requests==1.2.3
+requests==2.25.1
 stripe==1.84.2
 dj-database-url==0.5.0
 django-oauth2-provider==0.2.6.1
@@ -68,7 +68,7 @@ certifi==0.0.8
 chardet==4.0.0
 distribute==0.7.3
 gunicorn==0.17.4
-requests==0.14.2
+requests==2.25.1
 
 attrs==20.3.0
 iniconfig
