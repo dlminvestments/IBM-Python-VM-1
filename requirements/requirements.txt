@@ -65,7 +65,7 @@ Flask==0.12.5
 Jinja2==2.11.2
 Werkzeug==0.16.1
 certifi==0.0.8
-chardet==1.1
+chardet==4.0.0
 distribute==0.7.3
 gunicorn==0.17.4
 requests==0.14.2
