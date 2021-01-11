@@ -11,7 +11,7 @@ logutils==0.3.5
 
 South==0.8.4
 
-requests==2.20
+requests==2.25.1
 
 stripe==1.84.2
 
