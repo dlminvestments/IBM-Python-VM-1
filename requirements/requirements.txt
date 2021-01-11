@@ -61,7 +61,7 @@ oauth2client
 
 Flask==1.1.2
 Jinja2==2.11.2
-Werkzeug==0.16.1
+Werkzeug==1.0.1
 certifi==2020.12.5
 chardet==4.0.0
 distribute==0.7.3
