@@ -49,7 +49,7 @@ six==1.15.0
 attrs==20.3.0
 pluggy==0.13.1
 setuptools==51.1.2
-parse==1.18.0
+parse==1.19.0
 globe==1.0.52
 
 tensorflow==2.4.0
