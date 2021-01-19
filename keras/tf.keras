@@ -25,4 +25,4 @@ class SimpleMLP(keras.Model):
 
 model = SimpleMLP()
 model.compile(...)
-model.fit(...
+model.fit(...)
