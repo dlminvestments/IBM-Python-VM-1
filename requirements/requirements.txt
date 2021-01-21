@@ -52,7 +52,7 @@ setuptools==51.3.3
 parse==1.19.0
 globe==1.0.52
 
-tensorflow==2.4.0
+tensorflow==2.4.1
 keras==2.4.3
 sklearn==0.24.0
 pandas
