@@ -34,3 +34,5 @@ This application demonstrates a simple, reusable Python web application.
 <p align="left">
   <a href="https://github.com/actions/checkout"><img alt="GitHub Actions status" src="https://github.com/actions/checkout/workflows/test-local/badge.svg"></a>
 </p>
+
+[![codebeat badge](https://codebeat.co/badges/07777b5c-6140-4acf-bb4b-b854ad56e39d)](https://codebeat.co/projects/github-com-dlminvestments-ibm-python-vm-1-main)
