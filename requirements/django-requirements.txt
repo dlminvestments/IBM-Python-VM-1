@@ -21,4 +21,4 @@ django-oauth2-provider==0.2.6.1
 
 djangorestframework==3.12.2 
 
-urllib3==1.26.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3==1.26.4 # not directly required, pinned by Snyk to avoid a vulnerability
