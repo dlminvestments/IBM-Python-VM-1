@@ -1,0 +1,8 @@
+{
+    "app_id": "app-vm-1_ibm-yaxtb",
+    "config_version": 20210101,
+    "name": "App-VM-1_IBM",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "testing"
+}
