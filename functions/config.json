@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "name": "VM1",
+        "private": false
+    }
+]
