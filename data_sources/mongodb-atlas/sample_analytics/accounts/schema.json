@@ -1,1 +1,10 @@
-{}
+{
+    "properties": {
+        "IBM": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "IBM"
+    ]
+}
