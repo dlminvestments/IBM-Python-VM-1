@@ -24,7 +24,7 @@ This application demonstrates a simple, reusable Python web application.
 
 [Install Python]: https://www.python.org/downloads/
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/798c4ad0a2d1ea54c5ea/maintainability)](https://codeclimate.com/github/dlminvestments/IBM-Python-VM-1/maintainability)
 
