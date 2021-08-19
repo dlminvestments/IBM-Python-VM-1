@@ -322,7 +322,7 @@ def parse_setuppy_commands():
                     'install_lib', 'install_scripts', ):
         bad_commands[command] = "`setup.py %s` is not supported" % command
 
-    for command in bad_commands.keys():
+    for command in bad_commands:
         if command in args:
             print(textwrap.dedent(bad_commands[command]) +
                   "\nAdd `--force` to your command to use it anyway if you "
