@@ -26,7 +26,7 @@ This application demonstrates a simple, reusable Python web application.
 
 [Ansible](https://www.ansible.com)
 
-[TensorFlow(https://www.tensorflow.org)
+[TensorFlow](https://www.tensorflow.org)
 
 [Numpy](https://numpy.org)
 
