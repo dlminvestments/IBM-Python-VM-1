@@ -29,7 +29,7 @@ class imp(enum.Enum):
     PY_SOURCE = 1
 
 
-class Module(object):
+class Module:
     def __init__(self, name, file=None, path=None):
         self.__name__ = name
         self.__file__ = file
@@ -155,7 +155,7 @@ class MyModuleFinder(mf27.ModuleFinder):
                 # print "  SUB:", sub, "lastcaller:", self._last_caller
 
 
-class RawDependencies(object):
+class RawDependencies:
     def __init__(self, fname, **kw):
         path = sys.path[:]
         exclude = []
