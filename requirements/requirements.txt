@@ -87,7 +87,7 @@ py==1.10.0
 toml
 atomicwrites>=1.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
-importlib-metadata==4.6.4
+importlib-metadata==4.7.1
 
 asgiref==3.4.1
 pytz
