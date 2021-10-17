@@ -48,7 +48,7 @@ djangorestframework==3.12.4
 -r requirements/requirements-packaging.txt
 
 py==1.10.0
-pip==21.2.4
+pip==21.3
 Mako==1.1.5
 MarkupSafe==2.0.1
 six==1.16.0
