@@ -14,5 +14,5 @@ Flask-User==1.0.2.2
 
 # Automated tests
 pytest==6.2.5
-pytest-cov==2.12.1
+pytest-cov==3.0.0
 wtforms==3.0.0a1 # not directly required, pinned by Snyk to avoid a vulnerability
