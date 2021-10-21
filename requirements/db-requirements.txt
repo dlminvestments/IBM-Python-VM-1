@@ -2,7 +2,7 @@ Flask==2.0.2
 
 cloudant==2.15.0
 
-pymongo[tls]==3.12.0
+pymongo[tls]==3.12.1
 
 winkerberos==0.8.0
 
