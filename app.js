@@ -9,7 +9,7 @@ EJS.open = "<ejs>";
 EJS.close = "</ejs>";
 
 let host = process.env.PORT ? '0.0.0.0' : 'localhost';
-let port = (process.env.PORT || 5000);
+let port = (process.env.PORT || 3456);
 let url = require('url').format({hostname: host, port: port, protocol: 'http'});
 
 let app = express();
