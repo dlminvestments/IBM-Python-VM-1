@@ -59,10 +59,10 @@ parse==1.19.0
 globe==1.0.52
 
  renovate/keras-2.x
-tensorflow==2.6.1
+tensorflow==2.7.0
 keras==2.6.0
 =======
-tensorflow==2.6.1
+tensorflow==2.7.0
 keras==2.6.0
  main
 sklearn==0.24.0
