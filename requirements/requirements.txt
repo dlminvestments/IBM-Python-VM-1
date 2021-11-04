@@ -47,7 +47,7 @@ djangorestframework==3.12.4
 -r requirements/requirements-codestyle.txt
 -r requirements/requirements-packaging.txt
 
-py==1.10.0
+py==1.11.0
 pip==21.3.1
 Mako==1.1.5
 MarkupSafe==2.0.1
@@ -83,7 +83,7 @@ attrs==21.2.0
 iniconfig
 packaging
 pluggy==1.0.0
-py==1.10.0
+py==1.11.0
 toml
 atomicwrites>=1.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
