@@ -349,10 +349,10 @@ if sys.version_info[0] == 2:
             extras_require['tls'].append("wincertstore>=0.2")
         else:
             extras_require['tls'].append("certifi")
-    extras_require.update({'srv': ["dnspython>=1.16.0,<1.17.0"]})
+    extras_require.update({'srv': ["dnspython>=1.16.0,<3.0.0"]})
     extras_require.update({'tls': ["ipaddress"]})
 else:
-    extras_require.update({'srv': ["dnspython>=1.16.0,<2.0.0"]})
+    extras_require.update({'srv': ["dnspython>=1.16.0,<2.2.0"]})
 
 # GSSAPI extras
 if sys.platform == 'win32':
