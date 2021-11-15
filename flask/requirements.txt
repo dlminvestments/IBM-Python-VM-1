@@ -9,7 +9,7 @@ Flask-Login==0.5.0
 Flask-Migrate==3.1.0
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.5.1
-Flask-WTF==0.15.1
+Flask-WTF==1.0.0
 Flask-User==1.0.2.2
 
 # Automated tests
