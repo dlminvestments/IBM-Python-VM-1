@@ -2,7 +2,7 @@ tensorflow==2.7.0
 
 numpy==1.21.4
 
-pandas==1.3.4
+pandas==1.3.5
 
 pyparsing==3.0.6         
 
