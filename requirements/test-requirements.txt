@@ -1,7 +1,15 @@
 
+renovate/ansible-lint-5.x
 ansible==4.9.0
 ansible-lint==5.3.1
 
 ansible==4.9.0
 ansible-lint==5.3.1
+=======
+ansible==5.0.1
+ansible-lint==5.2.1
+
+ansible==5.0.1
+ansible-lint==5.2.1
+main
 
