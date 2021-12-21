@@ -1,7 +1,7 @@
 
-ansible==4.9.0
+ansible==5.0.1
 ansible-lint==5.2.1
 
-ansible==4.9.0
+ansible==5.0.1
 ansible-lint==5.2.1
 
