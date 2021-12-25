@@ -31,7 +31,7 @@ scipy==1.7.3
 seaborn==0.11.2
 six==1.16.0              
 
-django==3.2.9
+django==3.2.10
 bpython==0.22.1
 django-braces==1.15.0
 django-model-utils==4.2.0
