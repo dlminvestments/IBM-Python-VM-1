@@ -39,7 +39,7 @@ logutils==0.3.5
 stripe==2.63.0
 dj-database-url==0.5.0
 django-oauth2-provider==0.2.6.1
-djangorestframework==3.12.4
+djangorestframework==3.13.1
 
 -r requirements/requirements-optionals.txt
 -r requirements/requirements-testing.txt
