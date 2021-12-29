@@ -52,7 +52,7 @@ pip==21.3.1
 Mako==1.1.6
 MarkupSafe==2.0.1
 six==1.16.0
-attrs==21.2.0
+attrs==21.4.0
 pluggy==1.0.0
 setuptools==60.1.0
 parse==1.19.0
@@ -87,7 +87,7 @@ distribute==0.7.3
 gunicorn==20.1.0
 requests==2.26.0
 
-attrs==21.2.0
+attrs==21.4.0
 iniconfig
 packaging
 pluggy==1.0.0
