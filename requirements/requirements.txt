@@ -93,7 +93,7 @@ packaging
 pluggy==1.0.0
 py==1.11.0
 toml
-atomicwrites>=1.0;sys_platform=="win32"
+atomicwrites==1.4.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
 importlib-metadata==4.10.0
 
