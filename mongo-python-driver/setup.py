@@ -352,7 +352,7 @@ if sys.version_info[0] == 2:
     extras_require.update({'srv': ["dnspython>=1.16.0,<3.0.0"]})
     extras_require.update({'tls': ["ipaddress"]})
 else:
-    extras_require.update({'srv': ["dnspython>=1.16.0,<2.2.0"]})
+    extras_require.update({'srv': ["dnspython>=1.16.0,<2.2.1"]})
 
 # GSSAPI extras
 if sys.platform == 'win32':
