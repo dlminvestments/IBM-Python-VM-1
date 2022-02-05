@@ -97,7 +97,7 @@ atomicwrites==1.4.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
 importlib-metadata==4.10.1
 
-asgiref==3.4.1
+asgiref==3.5.0
 pytz
 sqlparse==0.4.2
 argon2 = argon2-cffi >= 19.1.0
