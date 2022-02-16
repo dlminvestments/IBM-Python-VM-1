@@ -1,22 +1,22 @@
 
 renovate/ansible-lint-5.x
 renovate/ansible-5.x
-ansible==5.2.0
+ansible==5.3.0
 ansible-lint==5.3.2
 
-ansible==5.2.0
+ansible==5.3.0
 =======
-ansible==5.2.0
+ansible==5.3.0
 ansible-lint==5.3.2
 
-ansible==5.2.0
+ansible==5.3.0
 main
 ansible-lint==5.3.2
 =======
-ansible==5.2.0
+ansible==5.3.0
 ansible-lint==5.3.2
 
-ansible==5.2.0
+ansible==5.3.0
 ansible-lint==5.3.2
 main
 
