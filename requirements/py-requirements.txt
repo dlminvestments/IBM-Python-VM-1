@@ -1,6 +1,6 @@
 py==1.11.0
 
-pip==21.3.1
+pip==22.0.3
 
 Mako==1.1.6
 
@@ -12,7 +12,7 @@ attrs==21.4.0
 
 pluggy==1.0.0
 
-setuptools==60.5.0
+setuptools==60.9.3
 
 parse==1.19.0
 
