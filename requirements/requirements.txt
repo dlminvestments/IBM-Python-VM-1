@@ -18,11 +18,11 @@ kiwisolver==1.4.2
  renovate/pandas-1.x
 matplotlib==3.5.1
 numpy==1.22.3
-pandas==1.4.1
+pandas==1.4.2
 =======
 matplotlib==3.5.1
 numpy==1.22.3
-pandas==1.4.1
+pandas==1.4.2
  main
 pyparsing==3.0.7         
 python-dateutil==2.8.2   
