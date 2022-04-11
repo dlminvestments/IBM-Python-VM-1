@@ -2,38 +2,38 @@
 renovate/ansible-lint-5.x
 renovate/ansible-5.x
 renovate/ansible-5.x
-ansible==5.5.0
+ansible==5.6.0
 ansible-lint==6.0.2
 =======
-ansible==5.4.0
+ansible==5.6.0
 ansible-lint==6.0.2
 main
 
-ansible==5.5.0
+ansible==5.6.0
 =======
 renovate/ansible-5.x
-ansible==5.5.0
+ansible==5.6.0
 ansible-lint==6.0.2
 =======
-ansible==5.4.0
+ansible==5.6.0
 ansible-lint==6.0.2
 main
 
-ansible==5.5.0
+ansible==5.6.0
 main
 ansible-lint==6.0.2
 =======
 renovate/ansible-5.x
-ansible==5.5.0
+ansible==5.6.0
 ansible-lint==6.0.2
 
-ansible==5.5.0
+ansible==5.6.0
 ansible-lint==6.0.2
 =======
-ansible==5.4.0
+ansible==5.6.0
 ansible-lint==6.0.2
 
-ansible==5.4.0
+ansible==5.6.0
 ansible-lint==6.0.2
 main
 main
