@@ -3,9 +3,9 @@ Flask==2.1.1
 cloudant==2.15.0
 
 renovate/pymongo-4.x
-pymongo[tls]==4.1.0
+pymongo[tls]==4.1.1
 =======
-pymongo[tls]==4.1.0
+pymongo[tls]==4.1.1
 main
 
 winkerberos==0.8.0
