@@ -1,4 +1,4 @@
-Flask==2.1.1
+Flask==2.1.2
 
 cloudant==2.15.0
 
