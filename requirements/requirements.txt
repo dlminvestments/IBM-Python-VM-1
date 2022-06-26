@@ -17,12 +17,21 @@ cycler==0.11.0
 kiwisolver==1.4.3        
  renovate/pandas-1.x
 matplotlib==3.5.2
+renovate/numpy-1.x
 numpy==1.23.0
 pandas==1.4.2
 =======
 matplotlib==3.5.2
 numpy==1.23.0
 pandas==1.4.2
+=======
+numpy==1.22.4
+pandas==1.4.3
+=======
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.3
+main
  main
 pyparsing==3.0.9         
 python-dateutil==2.8.2   
@@ -54,7 +63,7 @@ MarkupSafe==2.1.1
 six==1.16.0
 attrs==21.4.0
 pluggy==1.0.0
-setuptools==62.5.0
+setuptools==62.6.0
 parse==1.19.0
 globe==1.0.52
 
@@ -96,7 +105,7 @@ Flask==2.1.2
 Jinja2==3.1.2
 Werkzeug==2.1.2
 certifi==2022.6.15
-chardet==4.0.0
+chardet==5.0.0
 distribute==0.7.3
 gunicorn==20.1.0
 requests==2.28.0
@@ -109,7 +118,7 @@ py==1.11.0
 toml
 atomicwrites==1.4.0;sys_platform=="win32"
 colorama;sys_platform=="win32"
-importlib-metadata==4.11.4
+importlib-metadata==4.12.0
 
 asgiref==3.5.2
 pytz
