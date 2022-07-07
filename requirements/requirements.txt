@@ -63,7 +63,7 @@ MarkupSafe==2.1.1
 six==1.16.0
 attrs==21.4.0
 pluggy==1.0.0
-setuptools==62.6.0
+setuptools==63.1.0
 parse==1.19.0
 globe==1.0.52
 
