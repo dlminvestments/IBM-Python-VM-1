@@ -30,7 +30,7 @@ clikit = "^0.6.2"
 crashtest = "^0.4.0"
 requests = "^2.18"
 cachy = "^0.3.0"
-requests-toolbelt = "^0.9.1"
+requests-toolbelt = "^0.10.0"
 cachecontrol = { version = "^0.12.4", extras = ["filecache"] }
 pkginfo = "^1.4"
 html5lib = "^1.1"
