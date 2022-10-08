@@ -36,7 +36,7 @@ main
 pyparsing==3.0.9         
 python-dateutil==2.8.2   
 pytz==2022.4             
-scipy==1.9.1             
+scipy==1.9.2             
 seaborn==0.12.0
 six==1.16.0              
 
