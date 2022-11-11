@@ -1,7 +1,7 @@
 steps:
   # this Action should follow steps to set up Python build environment
   - name: Install Python dependencies
-    uses: py-actions/py-dependency-install@v3
+    uses: py-actions/py-dependency-install@v4
     with:
       update-pip: "true"
       update-setuptools: "true"
