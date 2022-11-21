@@ -2,7 +2,7 @@ py==1.11.0
 
 pip==22.3.1
 
-Mako==1.2.3
+Mako==1.2.4
 
 MarkupSafe==2.1.1
 
