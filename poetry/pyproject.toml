@@ -37,7 +37,7 @@ html5lib = "^1.1"
 shellingham = "^1.1"
 tomlkit = ">=0.7.0,<1.0.0"
 pexpect = "^4.7.0"
-packaging = "^22.0"
+packaging = "^23.0"
 virtualenv = { version = "^20.0.26" }
 keyring = "^23.0.0"
 importlib-metadata = {version = "^6.0.0", python = "<3.8"}
