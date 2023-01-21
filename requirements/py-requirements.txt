@@ -12,7 +12,7 @@ attrs==22.2.0
 
 pluggy==1.0.0
 
-setuptools==66.0.0
+setuptools==66.1.1
 
 parse==1.19.0
 
