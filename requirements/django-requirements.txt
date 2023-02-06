@@ -23,4 +23,4 @@ djangorestframework==3.14.0
 
 urllib3==1.26.14 # not directly required, pinned by Snyk to avoid a vulnerability
 
-unittest-xml-reporting==2.1.0
+unittest-xml-reporting==3.2.0
