@@ -17,3 +17,6 @@ setuptools==67.6.1
 parse==1.19.0
 
 globe==1.0.52
+
+
+redis==3.5.3
