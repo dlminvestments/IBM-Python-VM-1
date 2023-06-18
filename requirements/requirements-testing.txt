@@ -118,7 +118,7 @@ ibm_db
 
 
 
-django==3.2.6
+django==3.2.19
 
 bpython==0.21
 
