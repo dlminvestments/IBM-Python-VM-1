@@ -143,7 +143,7 @@ djangorestframework==3.12.4
 urllib3==1.26.16 # not directly required, pinned by Snyk to avoid a vulnerability
 
 
-tensorflow==2.5.1
+tensorflow==2.11.1
 
 numpy==1.25.0
 
