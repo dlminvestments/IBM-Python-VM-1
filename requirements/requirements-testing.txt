@@ -66,7 +66,7 @@ Werkzeug==2.2.3
 certifi==0.0.8
 chardet==1.1
 distribute==0.7.3
-gunicorn==0.14.2
+gunicorn==0.17.4
 requests==0.11.1
 
 attrs>=19.2.0
