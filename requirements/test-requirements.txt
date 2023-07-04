@@ -4,16 +4,16 @@ renovate/ansible-5.x
 renovate/ansible-5.x
 renovate/ansible-6.x
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 main
 main
 
@@ -22,48 +22,48 @@ ansible==8.0.0
 renovate/ansible-5.x
 renovate/ansible-6.x
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 main
 main
 
 ansible==8.0.0
 main
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 renovate/ansible-5.x
 renovate/ansible-6.x
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 =======
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 
 ansible==8.0.0
-ansible-lint==6.17.1
+ansible-lint==6.17.2
 main
 main
 main
