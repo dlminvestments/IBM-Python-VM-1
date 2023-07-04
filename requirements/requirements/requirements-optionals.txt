@@ -14,7 +14,7 @@ steps:
 #    pip-compile
 #
 cycler==0.11.0           
-kiwisolver==1.2.0        
+kiwisolver==1.4.4        
 matplotlib==3.2.1
 numpy==1.25.0
 pandas==1.0.4
