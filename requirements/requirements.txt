@@ -18,19 +18,19 @@ kiwisolver==1.4.4
  renovate/pandas-1.x
 matplotlib==3.7.1
 renovate/numpy-1.x
-numpy==1.25.0
+numpy==1.25.1
 pandas==2.0.2
 
 matplotlib==3.7.1
-numpy==1.25.0
+numpy==1.25.1
 pandas==2.0.2
 redis==4.5.5
 
-numpy==1.25.0
+numpy==1.25.1
 pandas==2.0.2
 
 matplotlib==3.7.1
-numpy==1.25.0
+numpy==1.25.1
 pandas==2.0.2
 main
  main
