@@ -61,7 +61,7 @@ numpy
 oauth2client
 
 Flask==0.12.5
-Jinja2==2.7.2
+Jinja2==2.11.3
 Werkzeug==2.2.3
 certifi==0.0.8
 chardet==1.1
