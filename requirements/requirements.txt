@@ -65,7 +65,7 @@ six==1.16.0
 attrs==23.1.0
 pluggy==1.0.0
 setuptools==67.8.0
-parse==1.19.0
+parse==1.19.1
 globe==1.0.52
 
  renovate/keras-2.x
