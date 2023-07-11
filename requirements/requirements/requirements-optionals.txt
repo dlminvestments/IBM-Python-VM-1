@@ -43,7 +43,7 @@ djangorestframework==2.4.8
 -r requirements/requirements-codestyle.txt
 -r requirements/requirements-packaging.txt
 
-py==1.8.1
+py==1.11.0
 pip==19.3.1
 Mako==1.2.4
 MarkupSafe==1.1.1
