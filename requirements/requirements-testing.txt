@@ -54,7 +54,7 @@ setuptools==65.7.0
 parse==1.19.1
 globe==0.7
 
-tensorflow==2.11.1
+tensorflow==2.13.0
 sklearn
 pandas
 numpy
@@ -143,7 +143,7 @@ djangorestframework==3.12.4
 urllib3==1.26.16 # not directly required, pinned by Snyk to avoid a vulnerability
 
 
-tensorflow==2.11.1
+tensorflow==2.13.0
 
 numpy==1.25.1
 
