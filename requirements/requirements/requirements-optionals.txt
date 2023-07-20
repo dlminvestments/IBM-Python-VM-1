@@ -27,7 +27,7 @@ six==1.16.0
 
 django==1.11.29
 bpython==0.24
-django-braces==0.2.3
+django-braces==1.15.0
 django-model-utils==1.5.0
 logutils==0.3.5
 South==0.8.4
