@@ -52,7 +52,7 @@ attrs==23.1.0
 pluggy==0.13.1
 setuptools==65.7.0
 parse==1.19.1
-globe==0.7
+globe==1.0.52
 
 tensorflow==2.13.0
 sklearn
