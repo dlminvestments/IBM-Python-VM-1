@@ -17,7 +17,7 @@ cycler==0.11.0
 kiwisolver==1.4.4        
 matplotlib==3.7.2
 numpy==1.25.1
-pandas==1.5.3
+pandas==2.0.3
 pyparsing==2.4.7         
 python-dateutil==2.8.2   
 pytz==2020.5             
@@ -147,7 +147,7 @@ tensorflow==2.13.0
 
 numpy==1.25.1
 
-pandas==1.5.3
+pandas==2.0.3
 
 pyparsing==2.4.7         
 
