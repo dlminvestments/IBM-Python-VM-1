@@ -19,19 +19,19 @@ kiwisolver==1.4.4
 matplotlib==3.7.2
 renovate/numpy-1.x
 numpy==1.25.1
-pandas==2.0.2
+pandas==2.0.3
 
 matplotlib==3.7.2
 numpy==1.25.1
-pandas==2.0.2
+pandas==2.0.3
 redis==4.6.0
 
 numpy==1.25.1
-pandas==2.0.2
+pandas==2.0.3
 
 matplotlib==3.7.2
 numpy==1.25.1
-pandas==2.0.2
+pandas==2.0.3
 main
  main
 pyparsing==3.0.9         
