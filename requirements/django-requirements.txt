@@ -13,7 +13,7 @@ South==1.0.2
 
 requests==2.31.0
 
-stripe==5.4.0
+stripe==5.5.0
 
 dj-database-url==2.0.0
 
