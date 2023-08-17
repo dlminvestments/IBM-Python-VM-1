@@ -15,7 +15,7 @@ requests==2.31.0
 
 stripe==5.5.0
 
-dj-database-url==2.0.0
+dj-database-url==2.1.0
 
 django-oauth2-provider==0.2.6.1
 
