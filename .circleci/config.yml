@@ -44,7 +44,7 @@ jobs:
 
   build:
     docker:
-      - image: cimg/python:3.11.4
+      - image: cimg/python:3.11.5
     steps:
       - checkout
       - python/install-packages:
