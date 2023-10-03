@@ -140,7 +140,7 @@ django-oauth2-provider==0.2.6.1
 
 djangorestframework==3.14.0 
 
-urllib3==2.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3==2.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
 
 
 tensorflow==2.14.0
