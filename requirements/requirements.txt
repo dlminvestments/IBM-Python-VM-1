@@ -13,7 +13,7 @@ steps:
 #
 #    pip-compile
 #
-cycler==0.12.0           
+cycler==0.12.1           
 kiwisolver==1.4.5        
  renovate/pandas-1.x
 matplotlib==3.8.0
