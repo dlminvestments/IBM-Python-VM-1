@@ -25,7 +25,7 @@ scipy==1.11.3
 seaborn==0.13.0
 six==1.16.0              
 
-django==4.2.6
+django==4.2.7
 bpython==0.24
 django-braces==1.15.0
 django-model-utils==4.3.1
@@ -118,7 +118,7 @@ ibm_db
 
 
 
-django==4.2.6
+django==4.2.7
 
 bpython==0.24
 
