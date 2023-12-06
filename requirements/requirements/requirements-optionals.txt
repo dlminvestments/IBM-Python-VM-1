@@ -54,7 +54,7 @@ setuptools==69.0.2
 parse==1.20.0
 globe==1.0.52
 
-tensorflow==2.15.0
+tensorflow==2.15.0.post1
 sklearn
 pandas
 numpy
