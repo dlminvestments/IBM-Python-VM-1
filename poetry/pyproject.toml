@@ -40,7 +40,7 @@ pexpect = "^4.7.0"
 packaging = "^23.0"
 virtualenv = { version = "^20.0.26" }
 keyring = "^24.0.0"
-importlib-metadata = {version = "^6.0.0", python = "<3.8"}
+importlib-metadata = {version = "^7.0.0", python = "<3.8"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0.0"
