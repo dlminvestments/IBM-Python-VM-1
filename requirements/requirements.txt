@@ -72,52 +72,52 @@ globe==1.0.52
 renovate/tensorflow-2.x
 renovate/keras-2.x
 renovate/tensorflow-2.x
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 
-tensorflow==2.15.0.post1
+tensorflow==2.16.0
 keras==3.0.2
 main
 main
