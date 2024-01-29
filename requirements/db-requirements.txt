@@ -8,7 +8,7 @@ pymongo[tls]==4.6.1
 pymongo[tls]==4.6.1
 main
 
-winkerberos==0.9.1
+winkerberos==0.10.0
 
 pykerberos==1.2.4
 
