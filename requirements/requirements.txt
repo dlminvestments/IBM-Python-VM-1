@@ -168,9 +168,9 @@ dataclasses; python_version<"3.7
 Flask==3.0.2
  cloudant==2.15.0
 renovate/pymongo-4.x
- pymongo[tls]==4.6.1
+ pymongo[tls]==4.6.2
 
- pymongo[tls]==4.6.1
+ pymongo[tls]==4.6.2
 main
  winkerberos==0.10.0
  pykerberos==1.2.4
