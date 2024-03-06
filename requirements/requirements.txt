@@ -34,7 +34,7 @@ numpy==1.26.4
 pandas==2.2.1
 main
  main
-pyparsing==3.1.1         
+pyparsing==3.1.2         
 python-dateutil==2.9.0.post0   
 pytz==2024.1             
 scipy==1.12.0             
