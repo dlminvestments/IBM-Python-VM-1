@@ -99,7 +99,7 @@ dataclasses; python_version<"3.7
 
 Flask==3.0.2
  cloudant==2.15.0
- pymongo[tls]==4.6.2
+ pymongo[tls]==4.6.3
  winkerberos==0.10.0
  pykerberos==1.2.4
  ibm_db
