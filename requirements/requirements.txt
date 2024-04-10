@@ -73,52 +73,52 @@ renovate/tensorflow-2.x
 renovate/keras-2.x
 renovate/tensorflow-2.x
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 
 tensorflow==2.16.1
-keras==3.1.1
+keras==3.2.1
 main
 main
 main
