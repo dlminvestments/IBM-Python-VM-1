@@ -15,7 +15,7 @@ steps:
 #
 cycler==0.12.1           
 kiwisolver==1.4.5        
-matplotlib==3.8.3
+matplotlib==3.8.4
 numpy==1.26.4
 pandas==2.2.1
 pyparsing==3.1.2         
@@ -163,7 +163,7 @@ seaborn==0.13.2
 
 six==1.16.0         
 
-matplotlib==3.8.3
+matplotlib==3.8.4
 
 py==1.11.0
 
