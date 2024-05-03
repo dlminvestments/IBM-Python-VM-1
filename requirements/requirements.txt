@@ -44,7 +44,7 @@ six==1.16.0
 django==5.0.4
 bpython==0.24
 django-braces==1.15.0
-django-model-utils==4.5.0
+django-model-utils==4.5.1
 logutils==0.3.5
 stripe==9.3.0
 dj-database-url==2.1.0
