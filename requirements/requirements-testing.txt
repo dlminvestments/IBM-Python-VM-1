@@ -16,7 +16,7 @@ steps:
 cycler==0.12.1           
 kiwisolver==1.4.5        
 matplotlib==3.9.0
-numpy==1.26.4
+numpy==2.0.0
 pandas==2.2.2
 pyparsing==3.1.2         
 python-dateutil==2.9.0.post0   
@@ -145,7 +145,7 @@ urllib3==2.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
 
 tensorflow==2.16.1
 
-numpy==1.26.4
+numpy==2.0.0
 
 pandas==2.2.2
 
