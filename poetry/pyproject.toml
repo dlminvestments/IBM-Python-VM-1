@@ -52,7 +52,7 @@ pytest-sugar = "^1.0.0"
 httpretty = "^1.0"
 zipp = { version = "^3.4", python = "<3.8"}
 # temporary workaround for https://github.com/python-poetry/poetry/issues/3404
-urllib3 = "2.2.1"
+urllib3 = "2.2.2"
 
 [tool.poetry.scripts]
 poetry = "poetry.console:main"
