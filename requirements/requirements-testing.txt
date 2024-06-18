@@ -187,8 +187,8 @@ globe==1.0.52
 
 
 
-ansible==10.0.1
+ansible==10.1.0
 ansible-lint==24.6.0
 
-ansible==10.0.1
+ansible==10.1.0
 ansible-lint==24.6.0
