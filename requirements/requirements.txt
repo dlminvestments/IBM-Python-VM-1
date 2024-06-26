@@ -172,6 +172,6 @@ renovate/pymongo-4.x
 
  pymongo[tls]==4.7.3
 main
- winkerberos==0.10.0
+ winkerberos==0.11.0
  pykerberos==1.2.4
  ibm_db
