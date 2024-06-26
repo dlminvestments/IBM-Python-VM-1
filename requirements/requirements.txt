@@ -24,7 +24,7 @@ pandas==2.2.2
 matplotlib==3.9.0
 numpy==2.0.0
 pandas==2.2.2
-redis==5.0.6
+redis==5.0.7
 
 numpy==2.0.0
 pandas==2.2.2
