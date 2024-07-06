@@ -16,12 +16,12 @@ steps:
 cycler==0.12.1           
 kiwisolver==1.4.5        
  renovate/pandas-1.x
-matplotlib==3.9.0
+matplotlib==3.9.1
 renovate/numpy-1.x
 numpy==2.0.0
 pandas==2.2.2
 
-matplotlib==3.9.0
+matplotlib==3.9.1
 numpy==2.0.0
 pandas==2.2.2
 redis==5.0.6
@@ -29,7 +29,7 @@ redis==5.0.6
 numpy==2.0.0
 pandas==2.2.2
 
-matplotlib==3.9.0
+matplotlib==3.9.1
 numpy==2.0.0
 pandas==2.2.2
 main
