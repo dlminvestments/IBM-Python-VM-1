@@ -1,5 +1,5 @@
 
-django==5.0.6
+django==5.0.7
 
 bpython==0.24
 
