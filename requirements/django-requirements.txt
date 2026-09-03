@@ -1,7 +1,7 @@
 
 django==5.0.7
 
-bpython==0.24
+bpython==0.26
 
 django-braces==1.15.0
 
