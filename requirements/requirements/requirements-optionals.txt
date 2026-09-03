@@ -26,7 +26,7 @@ seaborn==0.13.2
 six==1.16.0              
 
 django==5.0.7
-bpython==0.24
+bpython==0.26
 django-braces==1.15.0
 django-model-utils==4.5.1
 logutils==0.3.5
